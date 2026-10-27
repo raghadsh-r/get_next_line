@@ -28,8 +28,6 @@ if (file && file[0])
 		return (line);
 	}
 here i have wrong so he help me to fix it
-also i used it to understand some consept 
-i try always to search not depend on it.
 # algorithm
 I don't follow any specific algorithm .... but what i make 
 Simply read and merge then, check if a new line has been found—if so return it....... Otherwise  repeat the process until a new line is found or the end of the file is reached 
