@@ -19,15 +19,6 @@ this project learn me how to read from file even when file really big , now im r
 - > https://www.geeksforgeeks.org/c/compiling-a-c-program-behind-the-scenes/ 
 - > ulimit -n
 
-### Ai used
-
-if (file && file[0])
-	{
-		line =file;
-		file = NULL;
-		return (line);
-	}
-here i have wrong so he help me to fix it
 # algorithm
 I don't follow any specific algorithm .... but what i make 
 Simply read and merge then, check if a new line has been found—if so return it....... Otherwise  repeat the process until a new line is found or the end of the file is reached 
