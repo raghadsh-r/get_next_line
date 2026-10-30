@@ -1,3 +1,5 @@
+### it's important to know that will not work on more then 5 million char >>> I will improve it soon 
+
 *This project has been created as part of the 42 curriculum by ralshraw*
 # Description
 this project learn me how to read from file even when file really big , now im really to read big data without Data Loss i can mange file 
